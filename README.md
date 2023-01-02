@@ -1,1 +1,1 @@
-# selfservice
+# git-selfservice
